@@ -15,6 +15,8 @@
 
 ## Overview
 
+[Live Link](https://jdegand.github.io/chakra-conf)
+
 ![](chakra-conf-homepage.png)
 ![](chakra-conf-speakers.png)
 ![](chakra-conf-schedule.png)
