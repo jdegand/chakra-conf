@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/chakra-conf/static/js/main.75d572d8.js",
+    "static/js/921.27f51db0.chunk.js": "/chakra-conf/static/js/921.27f51db0.chunk.js",
+    "static/js/178.7a301882.chunk.js": "/chakra-conf/static/js/178.7a301882.chunk.js",
+    "static/js/596.157c4a89.chunk.js": "/chakra-conf/static/js/596.157c4a89.chunk.js",
+    "static/js/578.06cef56e.chunk.js": "/chakra-conf/static/js/578.06cef56e.chunk.js",
+    "static/js/380.dd96aa23.chunk.js": "/chakra-conf/static/js/380.dd96aa23.chunk.js",
+    "static/js/265.9948d8e2.chunk.js": "/chakra-conf/static/js/265.9948d8e2.chunk.js",
+    "static/js/143.3fcbcf76.chunk.js": "/chakra-conf/static/js/143.3fcbcf76.chunk.js",
+    "static/js/856.1c4de54c.chunk.js": "/chakra-conf/static/js/856.1c4de54c.chunk.js",
+    "static/js/377.c6efd445.chunk.js": "/chakra-conf/static/js/377.c6efd445.chunk.js",
+    "static/js/425.3313cab9.chunk.js": "/chakra-conf/static/js/425.3313cab9.chunk.js",
+    "static/js/843.e6cbf29a.chunk.js": "/chakra-conf/static/js/843.e6cbf29a.chunk.js",
+    "static/js/454.5636d840.chunk.js": "/chakra-conf/static/js/454.5636d840.chunk.js",
+    "index.html": "/chakra-conf/index.html",
+    "static/media/logo.svg": "/chakra-conf/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
+    "main.75d572d8.js.map": "/chakra-conf/static/js/main.75d572d8.js.map",
+    "921.27f51db0.chunk.js.map": "/chakra-conf/static/js/921.27f51db0.chunk.js.map",
+    "178.7a301882.chunk.js.map": "/chakra-conf/static/js/178.7a301882.chunk.js.map",
+    "596.157c4a89.chunk.js.map": "/chakra-conf/static/js/596.157c4a89.chunk.js.map",
+    "578.06cef56e.chunk.js.map": "/chakra-conf/static/js/578.06cef56e.chunk.js.map",
+    "380.dd96aa23.chunk.js.map": "/chakra-conf/static/js/380.dd96aa23.chunk.js.map",
+    "265.9948d8e2.chunk.js.map": "/chakra-conf/static/js/265.9948d8e2.chunk.js.map",
+    "143.3fcbcf76.chunk.js.map": "/chakra-conf/static/js/143.3fcbcf76.chunk.js.map",
+    "856.1c4de54c.chunk.js.map": "/chakra-conf/static/js/856.1c4de54c.chunk.js.map",
+    "377.c6efd445.chunk.js.map": "/chakra-conf/static/js/377.c6efd445.chunk.js.map",
+    "425.3313cab9.chunk.js.map": "/chakra-conf/static/js/425.3313cab9.chunk.js.map",
+    "843.e6cbf29a.chunk.js.map": "/chakra-conf/static/js/843.e6cbf29a.chunk.js.map",
+    "454.5636d840.chunk.js.map": "/chakra-conf/static/js/454.5636d840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.75d572d8.js"
+  ]
+}

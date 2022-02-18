@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkchakra_conf=self.webpackChunkchakra_conf||[]).push([[265],{7265:function(n,u,e){e.r(u),e.d(u,{default:function(){return a}});var c=e(8735),r=e(184);function a(){return(0,r.jsx)(c.xu,{minH:"70vh",fontSize:"4xl",children:"See you in Dubai!"})}}}]);
+//# sourceMappingURL=265.9948d8e2.chunk.js.map
